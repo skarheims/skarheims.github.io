@@ -1,0 +1,257 @@
+{
+  "output_dir": "/Users/christopher/private_src/silje/about-assets",
+  "downloaded_count": 20,
+  "failed_count": 37,
+  "downloaded": [
+    {
+      "url": "https://silje-light-space.lovable.app/about",
+      "path": "silje-light-space.lovable.app/about.html",
+      "content_type": "text/html"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/assets/styles-DpxF1PvM.css",
+      "path": "silje-light-space.lovable.app/assets/styles-DpxF1PvM.css",
+      "content_type": "text/css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Urbanist:wght@300;500;700&family=Epilogue:wght@300;400;500&display=swap",
+      "path": "fonts.googleapis.com/css2__q_0c6b7abffc.css",
+      "content_type": "text/css"
+    },
+    {
+      "url": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/dca953ff-5f5c-4d62-ba9c-5351d3ce5b00/id-preview-7db0d701--3c477d62-ffeb-49ba-8477-8e46ab8a5248.lovable.app-1781374682608.png",
+      "path": "pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/dca953ff-5f5c-4d62-ba9c-5351d3ce5b00/id-preview-7db0d701--3c477d62-ffeb-49ba-8477-8e46ab8a5248.lovable.app-1781374682608.png",
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/assets/portrait-silje-D8i7i19S.jpg",
+      "path": "silje-light-space.lovable.app/assets/portrait-silje-D8i7i19S.jpg",
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/assets/index-CAkPc3C9.js",
+      "path": "silje-light-space.lovable.app/assets/index-CAkPc3C9.js",
+      "content_type": "text/javascript"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/assets/about-DxiXywhJ.js",
+      "path": "silje-light-space.lovable.app/assets/about-DxiXywhJ.js",
+      "content_type": "text/javascript"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/~flock.js",
+      "path": "silje-light-space.lovable.app/~flock.js",
+      "content_type": "text/javascript"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/__l5e/events.js",
+      "path": "silje-light-space.lovable.app/__l5e/events.js",
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://cdn.gpteng.co/mcp-widgets/v1/fonts/CameraPlainVariable.woff2",
+      "path": "cdn.gpteng.co/mcp-widgets/v1/fonts/CameraPlainVariable.woff2",
+      "content_type": "font/woff2"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/__l5e/rrweb-record.js?__l5e_v=0.1.2-error-event-hardening",
+      "path": "silje-light-space.lovable.app/__l5e/rrweb-record__q_515524cd5c.js",
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXbjPiDA.ttf",
+      "path": "fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXbjPiDA.ttf",
+      "content_type": "font/ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDPiDA.ttf",
+      "path": "fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDPiDA.ttf",
+      "content_type": "font/ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXAjPiDA.ttf",
+      "path": "fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXAjPiDA.ttf",
+      "content_type": "font/ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDlR4fFg.ttf",
+      "path": "fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDlR4fFg.ttf",
+      "content_type": "font/ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqD-R4fFg.ttf",
+      "path": "fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqD-R4fFg.ttf",
+      "content_type": "font/ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDLBkfFg.ttf",
+      "path": "fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDLBkfFg.ttf",
+      "content_type": "font/ttf"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/assets/project-nordlys-D7cQnxeB.jpg",
+      "path": "silje-light-space.lovable.app/assets/project-nordlys-D7cQnxeB.jpg",
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/assets/hero-villa-Bj7ZsciA.jpg",
+      "path": "silje-light-space.lovable.app/assets/hero-villa-Bj7ZsciA.jpg",
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/__l5e/rrweb-record.js",
+      "path": "silje-light-space.lovable.app/__l5e/rrweb-record.js",
+      "content_type": "application/javascript"
+    }
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.gpteng.co/mcp-widgets/v1/fonts/CameraPlainVariable.woff",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/fonts/CameraPlainVariable.woff",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/assets/n",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/assets/n.href",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/assets/s",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/assets/g,this.origin",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/assets/J,this.origin",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/assets/_.pathname,this.origin",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/assets/`${c}`",
+      "error": "HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/assets/u",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/assets/m",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/assets/n.src,h",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/assets/assets/projects-DgbNmvcE.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/assets/assets/project-card-CC795sRJ.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/assets/assets/index-RThxHYLA.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/__l5e/d.referrer",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/__l5e/resourceUrl",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/__l5e/errorEvent.filename",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/__l5e/${JSON.stringify(e.href",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/__l5e/e,t??window.location.href",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/__l5e/${d}${o}${d}",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/__l5e/${d}${Gn(t",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/__l5e/${d}${i.join(\"/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/__l5e/o.type,o.quality",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/__l5e/d",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/__l5e/d.substring(h,a",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/__l5e/E.source,this.map.consumer(",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/__l5e/this.path(a.file",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/__l5e/this.path(p",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/__l5e/this.path(this.opts.from",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/__l5e/p",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/__l5e/this.mapOpts.from",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/__l5e/a.source.input.from",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/__l5e/this.path(a.source.input.from",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/__l5e/a",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/__l5e/Ri",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://silje-light-space.lovable.app/__l5e/t",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ]
+}
